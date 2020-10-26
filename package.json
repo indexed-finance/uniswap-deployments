@@ -1,6 +1,6 @@
 {
   "name": "@indexed-finance/uniswap-deployments",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uniswap deployment files for use with buidler-deploy",
   "main": "index.js",
   "files": [
